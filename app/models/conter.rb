@@ -1,0 +1,2 @@
+class Conter < ApplicationRecord
+end
